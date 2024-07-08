@@ -42,5 +42,5 @@ In a real-world scenario, both modules are integrated seamlessly:
   2. If the person is recognized, the system shows a green light, greets the person, and opens the door.
   3. If the person is not recognized, a red light is displayed, and the doorbell rings.
 
-# Conclusion
+## Conclusion
 This smart home security system combines Arduino-based hardware with machine learning-based facial recognition to create an efficient and secure entry system. The project demonstrates the potential of integrating electronics and AI to enhance home security.
