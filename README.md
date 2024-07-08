@@ -2,7 +2,7 @@
 This Repository Contains Files of Electronics Module: Arduino Programming, and Machine Learning Module: Facial Recognition, Part of Project: "Smart Home Security System"
 
 ## Project Description
-     ### Problem Statement - Smart Home Security System
+### Problem Statement - Smart Home Security System
 1. Develop a smart home security system with the following functionalities:
 2. Motion Detection: A sensor detects motion in front of the door.
 3. Camera Activation: The motion detection triggers a camera to take a picture.
